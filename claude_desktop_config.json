@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "notes": {
+      "command": "/ABSOLUTE/PATH/TO/mcp-server/.venv/bin/python",
+      "args": ["/ABSOLUTE/PATH/TO/mcp-server/server.py"]
+    }
+  }
+}
